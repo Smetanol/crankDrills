@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "fm:drill_station" }
+    }
+}

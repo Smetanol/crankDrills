@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DC"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "fm:drill_base"
+        },
+        "C":
+        {
+            "item": "fm:crank"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:drill_base"
+    }
+}
